@@ -1,0 +1,75 @@
+#hosts for android mobile
+#2014.6.18
+#Thanks GroverChouX and JarvisYitong and admln
+127.0.0.1	localhost
+74.125.130.100	android.clients.google.com
+74.125.130.100	android.l.google.com
+74.125.130.100	www.google.com
+74.125.130.100	www.google.com.hk
+74.125.130.100	appengine.google.com
+210.242.125.25	code.google.com
+74.125.204.188	mtalk.google.com
+74.125.204.84	accounts.google.com
+210.242.125.25	play.google.com
+74.125.130.132	lh3.googleusercontent.com
+74.125.130.132	lh4.googleusercontent.com
+74.125.130.132	lh5.googleusercontent.com
+74.125.130.132	lh6.googleusercontent.com
+74.125.130.95	play.googleapis.com
+74.125.130.95	maps.googleapis.com
+74.125.130.95	commondatastorage.googleapis.com
+74.125.130.95	fonts.googleapis.com
+74.125.130.95	www.googleapis.com
+74.125.130.95	translate.googleapis.com
+74.125.130.95	googleapis.l.google.com
+74.125.130.132	lh3.ggpht.com
+74.125.130.132	lh5.ggpht.com
+74.125.130.132	lh6.ggpht.com
+74.125.130.132	lh4.ggpht.com
+74.125.130.100	clients1.google.com
+74.125.130.100	clients2.google.com
+74.125.130.100	clients5.google.com
+74.125.130.100	clients6.google.com
+74.125.130.100	clients4.google.com
+74.125.130.100	clients3.google.com
+210.242.125.25	mw1.google.com
+210.242.125.25	mw2.google.com
+#203.211.0.50	www.youtube.com
+#203.211.0.50	gdata.youtube.com
+#203.211.0.50	s.ytimg.com
+210.242.125.25	maps.gstatic.com
+203.208.49.180	mts0.googleapis.com	
+203.208.49.180	mts1.googleapis.com
+203.208.49.180	khms0.googleapis.com
+203.208.49.180	khms1.googleapis.com	
+203.208.49.180	themes.googleusercontent.com
+210.242.125.25	mobilemaps.clients.google.com
+210.242.125.25	www.gstatic.com
+74.125.130.100	m.gmail.com
+
+210.242.125.25	betaspike.appspot.com
+210.242.125.25	m-dot-betaspike.appspot.com
+74.125.130.128	static.panoramio.com
+210.242.125.25	panoramio.com
+210.242.125.25	www.panoramio.com
+
+199.16.158.40	www.twitter.com
+199.16.158.40	twitter.com
+199.16.158.41	api.twitter.com
+199.16.158.42	search.twitter.com
+199.16.158.42	pic.twitter.com
+199.16.158.42	about.twitter.com
+199.16.158.44	t.co
+199.16.158.45	mobile.twitter.com
+199.16.158.46	support.twitter.com
+
+173.252.79.23	orcart.facebook.com
+31.13.82.32	graph.facebook.com
+31.13.82.32	developers.facebook.com
+31.13.82.37	b-graph.facebook.com
+31.13.82.37	b-api.facebook.com
+31.13.82.32	api.facebook.com
+31.13.82.32	m.facebook.com
+31.13.82.32	api-read.facebook.com
+31.13.82.32	www.facebook.com
+31.13.82.32	attachment.fbsbx.com
