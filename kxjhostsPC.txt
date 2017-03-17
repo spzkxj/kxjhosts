@@ -8,8 +8,7 @@
 # The IP address and the host name should be separated by at least one
 # space.
 #
-# Additionally, comments (such as these) m
-ay be inserted on individual
+# Additionally, comments (such as these) may be inserted on individual
 # lines or following the machine name denoted by a '#' symbol.
 #
 # For example:
@@ -31,9 +30,9 @@ ay be inserted on individual
 #ovear's DNS 116.255.162.155	60.190.217.130
 #korea 221.139.13.130
 #Japan 220.220.248.1/2
-#Ì¨Íå sparq 61.56.211.185 61.31.233.1(tfn)
-#Ïã¸Û 202.45.84.58 61.10.0.130 
-#¶íÂŞË¹Ä³ 80.80.111.254
+#å°æ¹¾ sparq 61.56.211.185 61.31.233.1(tfn)
+#é¦™æ¸¯ 202.45.84.58 61.10.0.130 
+#ä¿„ç½—æ–¯æŸ 80.80.111.254
 #more dns can find in http://public-dns.tk/
 #
 #Note:You'd better set your PC's DNS as 8.8.8.8
@@ -44,10 +43,10 @@ ay be inserted on individual
 #http://www.17ce.com/
 #chrome://net-internals/HSTS#  add force https
 ################################################################
-#½¨ÒéÊ¹ÓÃchromeä¯ÀÀÆ÷,µØÖ·À¸ÊäÈëÒÔÏÂÄÚÈİÒÔÇ¿ÖÆÊ¹ÓÃhttps
+#å»ºè®®ä½¿ç”¨chromeæµè§ˆå™¨,åœ°å€æ è¾“å…¥ä»¥ä¸‹å†…å®¹ä»¥å¼ºåˆ¶ä½¿ç”¨https
 #chrome://net-internals/#hsts
-#×óÉÏ½ÇÏÂÀ­²Ëµ¥Ñ¡ÔñHSTS
-#add domainÀïÖğ¸öÌí¼Ó
+#å·¦ä¸Šè§’ä¸‹æ‹‰èœå•é€‰æ‹©HSTS
+#add domainé‡Œé€ä¸ªæ·»åŠ 
 #google.com
 #google.com.hk
 #googleapis.com
@@ -55,50 +54,50 @@ ay be inserted on individual
 #youtube.com
 #facebook.com
 #twitter.com
-#²¢ÇÒÔÚÏÂ±ßµÄÁ½¸öInclude subdomains¶¼´ò¹´
-#µãadd
-#chrome://flags/   ÀïÃæÕÒµ½QUICĞ­ÒéÄÇÁ½Ïî£¬È«²¿ÆôÓÃ¡£(quicÒÑ·Ï¡£¡£)
+#å¹¶ä¸”åœ¨ä¸‹è¾¹çš„ä¸¤ä¸ªInclude subdomainséƒ½æ‰“å‹¾
+#ç‚¹add
+#chrome://flags/   é‡Œé¢æ‰¾åˆ°QUICåè®®é‚£ä¸¤é¡¹ï¼Œå…¨éƒ¨å¯ç”¨ã€‚(quicå·²åºŸã€‚ã€‚)
 
 ##################################################################
-#Ê×ÏÈ¸ĞĞ»imouto.host
-#update:1.6.8.1 	ggpht gstatic googlecode googleusercontent³¢ÊÔ»»³É±±¾©·şÎñÆ÷
-#update:1.6.12.1	ÓĞĞ©µØÖ·±ØĞë»»»Ø¹Ù·½µØÖ·¡£74.125.70/205/193/207/26/206.x
-#update:1.6.14.1	ip¸÷ÖÖÊ§Ğ§¡£¡£¡£±¸ÓÃ74x.125.205.147 74x.125.130.101 204x.9.80.46
+#é¦–å…ˆæ„Ÿè°¢imouto.host
+#update:1.6.8.1 	ggpht gstatic googlecode googleusercontentå°è¯•æ¢æˆåŒ—äº¬æœåŠ¡å™¨
+#update:1.6.12.1	æœ‰äº›åœ°å€å¿…é¡»æ¢å›å®˜æ–¹åœ°å€ã€‚74.125.70/205/193/207/26/206.x
+#update:1.6.14.1	ipå„ç§å¤±æ•ˆã€‚ã€‚ã€‚å¤‡ç”¨74x.125.205.147 74x.125.130.101 204x.9.80.46
 #update:1.6.15.1	add tor host1free
-#update:1.6.18.1	ÖØ´ó¸üĞÂ£¡£¡£¡google»»³É½üµÄ£¬twitter»»³ÉÄÏÃÀÖŞ¹Ù·½µÄ¡£½á¹ûdropbox±»Ç½
-#update:1.7.13.1	Ôö¼Ódropbox,Ìæ»»210x.242.125.25
-#update:1.7.25.1	Ìæ»»210x.242.125.25,127,128 Ôö¼ÓchromeÔ¶³Ì×ÀÃæ
-#update:1.8.11.1	³­imoutoµÄwikipedia
-#update:1.8.24.1	Ìæ»»ÁËÉÙÊı²»ÄÜÓÃµÄip£¬±¸ÓÃ203x.66.155.55
-#update:1.8.30.1	Ìæ»»ÁË×÷·ÏµÄ¹È¸èi
-#update:1.9.22.1	²¹³äc.youtubeµÄÓòÃû£¬¸ĞĞ»imouto hostsºÍÍøÓÑJack YouOSX¡£
-#update:1.10.20.1	G+Í¼Æ¬»»³ÉÌ¨ÍåµÄ£¬hk jp »»³ÉÌ¨ÍåµÄ
-#update:1.10.28.1	ĞŞ¸´»·ÁÄ£¬»»µ½74x.125.205.x ĞŞ¸´googleÉÏ´«£¬ĞŞ¸´²¿·ÖµØÍ¼£¬³­Ï®imoutoµÄduckgogoºÍfeedly.
-#update:1.11.3.1	ĞÂÔögithub¡£
-#update:1.11.26.1	ts.w.org yyets ingressÉêmission twitter Í¼Æ¬
-#update:1.12.20.1	·¢ÏÖÁËĞÂµÄip¶Î64x.233.189.x£¬¹À¼Æ»áºÜ¿ìµÄËÀ¡£(¹ûÈ»ËÀºÜ¿ì)
-#update:2.1.5.1		2015Äê¿ìÀÖ£¡¸Ğ¾õ×î½ühosts¸÷ÖÖËÀ¡£¡£¡£
-#update:2.1.19.1	Ìí¼ÓÁËfacebookµÄÍ¼Æ¬·şÎñÆ÷£¬·¢ÏÖ¹È¸è119x.29.17.183£¨ÌÚÑ¶Ïã¸Û£©
-#update:2.1.20.1	¸üĞÂÁË¹È¸èÏã¸Ûip£¬¸üĞÂÁËfb£¬¸üĞÂÁËdropbox,Ôö¼ÓÁËwordpress,ÎÒ¿ìÒª·èÁË¡­¡­
-#update:2.1.27.1	ĞŞ¸´189 ĞŞ¸´µçÄÔ»·ÁÄ·¢Í¼
-#update:2.2.2.2		Ôö¼Ó¼¸¸öµØÖ·£¬Ôö¼ÓtwitterÅ·ÖŞ£¬dropbox×÷·Ï
-#update:2.2.18.1	ĞÂÄêÌØ±ğ°æ£¬ĞŞ¸´twitter
-#update:2.2.25.1	google±±¾©·şÎñÆ÷×÷·Ï£¬È«ÏßÏÂ³·216@.21.170.44
-#update:2.3.17.1	googleusercontent×÷·Ï£¬»»
-#update:2.3.27.1	·ÏÁËÒ»´ó¶Ñip
-#update:2.4.2.1		google 216.58¶ÎÈ«²¿×÷·Ï£¬ĞÂÔöÒ»Ğ©YoutubeÏã¸ÛµÄip,ĞŞ¸´dropbox
-#update:2.4.9.1		Ôö¼Ógithub¼¸¸öip
-#update:2.4.30.1	Ç°¼¸ÈÕgoogle ip´óÁ¿ÕóÍö£¬×î½üÓĞ¸´»î£¬¸Ï½ô¸üĞÂXD
-#update:2.5.11.2	ºÜÂı£¬µ«ÄÜÉÏ¡£¡£¡£×÷ËÀ°æ
-#update:2.5.13.1	¸üĞÂtwitterĞÂ¼ÓÆÂ·şÎñÆ÷£¬ºÜ¿ìµÄ~£¡
-#update:2.5.19.1	¸üĞÂ²¿·Ö¹È¸èip
-#update:2.9.11.1	·¢ÏÖÁË²¿·Ö¹È¸èip£¬¸üĞÂÁËfacebook,twitter,dropbox
-#update:2.10.15.1	¸ü»»twitter£¬facebook£¬Ôö¼ÓinstagramÍøÒ³°æ
-#update:3.4.5.1		¸üĞÂ¸÷ÖÖip¡£¡£¡£202¡£86¡£162¡£172 ¡¢220¡£255¡£2¡£153 Ôö¼Óastrill
-#update:3.12.20.1	¸üĞÂ¹È¸è¡¢facebook£¬twitter¡¢instgram¡¢telegram¡¢bandwagonhost
-#update:4.3.17.1	twitter×÷·Ï£¬ÉÙÁ¿¸üĞÂ¡£²Î¿¼https://github.com/racaljk/hosts/blob/master/hosts¸üĞÂÒ»²¨¡£
+#update:1.6.18.1	é‡å¤§æ›´æ–°ï¼ï¼ï¼googleæ¢æˆè¿‘çš„ï¼Œtwitteræ¢æˆå—ç¾æ´²å®˜æ–¹çš„ã€‚ç»“æœdropboxè¢«å¢™
+#update:1.7.13.1	å¢åŠ dropbox,æ›¿æ¢210x.242.125.25
+#update:1.7.25.1	æ›¿æ¢210x.242.125.25,127,128 å¢åŠ chromeè¿œç¨‹æ¡Œé¢
+#update:1.8.11.1	æŠ„imoutoçš„wikipedia
+#update:1.8.24.1	æ›¿æ¢äº†å°‘æ•°ä¸èƒ½ç”¨çš„ipï¼Œå¤‡ç”¨203x.66.155.55
+#update:1.8.30.1	æ›¿æ¢äº†ä½œåºŸçš„è°·æ­Œi
+#update:1.9.22.1	è¡¥å……c.youtubeçš„åŸŸåï¼Œæ„Ÿè°¢imouto hostså’Œç½‘å‹Jack YouOSXã€‚
+#update:1.10.20.1	G+å›¾ç‰‡æ¢æˆå°æ¹¾çš„ï¼Œhk jp æ¢æˆå°æ¹¾çš„
+#update:1.10.28.1	ä¿®å¤ç¯èŠï¼Œæ¢åˆ°74x.125.205.x ä¿®å¤googleä¸Šä¼ ï¼Œä¿®å¤éƒ¨åˆ†åœ°å›¾ï¼ŒæŠ„è¢­imoutoçš„duckgogoå’Œfeedly.
+#update:1.11.3.1	æ–°å¢githubã€‚
+#update:1.11.26.1	ts.w.org yyets ingressç”³mission twitter å›¾ç‰‡
+#update:1.12.20.1	å‘ç°äº†æ–°çš„ipæ®µ64x.233.189.xï¼Œä¼°è®¡ä¼šå¾ˆå¿«çš„æ­»ã€‚(æœç„¶æ­»å¾ˆå¿«)
+#update:2.1.5.1		2015å¹´å¿«ä¹ï¼æ„Ÿè§‰æœ€è¿‘hostså„ç§æ­»ã€‚ã€‚ã€‚
+#update:2.1.19.1	æ·»åŠ äº†facebookçš„å›¾ç‰‡æœåŠ¡å™¨ï¼Œå‘ç°è°·æ­Œ119x.29.17.183ï¼ˆè…¾è®¯é¦™æ¸¯ï¼‰
+#update:2.1.20.1	æ›´æ–°äº†è°·æ­Œé¦™æ¸¯ipï¼Œæ›´æ–°äº†fbï¼Œæ›´æ–°äº†dropbox,å¢åŠ äº†wordpress,æˆ‘å¿«è¦ç–¯äº†â€¦â€¦
+#update:2.1.27.1	ä¿®å¤189 ä¿®å¤ç”µè„‘ç¯èŠå‘å›¾
+#update:2.2.2.2		å¢åŠ å‡ ä¸ªåœ°å€ï¼Œå¢åŠ twitteræ¬§æ´²ï¼Œdropboxä½œåºŸ
+#update:2.2.18.1	æ–°å¹´ç‰¹åˆ«ç‰ˆï¼Œä¿®å¤twitter
+#update:2.2.25.1	googleåŒ—äº¬æœåŠ¡å™¨ä½œåºŸï¼Œå…¨çº¿ä¸‹æ’¤216@.21.170.44
+#update:2.3.17.1	googleusercontentä½œåºŸï¼Œæ¢
+#update:2.3.27.1	åºŸäº†ä¸€å¤§å †ip
+#update:2.4.2.1		google 216.58æ®µå…¨éƒ¨ä½œåºŸï¼Œæ–°å¢ä¸€äº›Youtubeé¦™æ¸¯çš„ip,ä¿®å¤dropbox
+#update:2.4.9.1		å¢åŠ githubå‡ ä¸ªip
+#update:2.4.30.1	å‰å‡ æ—¥google ipå¤§é‡é˜µäº¡ï¼Œæœ€è¿‘æœ‰å¤æ´»ï¼Œèµ¶ç´§æ›´æ–°XD
+#update:2.5.11.2	å¾ˆæ…¢ï¼Œä½†èƒ½ä¸Šã€‚ã€‚ã€‚ä½œæ­»ç‰ˆ
+#update:2.5.13.1	æ›´æ–°twitteræ–°åŠ å¡æœåŠ¡å™¨ï¼Œå¾ˆå¿«çš„~ï¼
+#update:2.5.19.1	æ›´æ–°éƒ¨åˆ†è°·æ­Œip
+#update:2.9.11.1	å‘ç°äº†éƒ¨åˆ†è°·æ­Œipï¼Œæ›´æ–°äº†facebook,twitter,dropbox
+#update:2.10.15.1	æ›´æ¢twitterï¼Œfacebookï¼Œå¢åŠ instagramç½‘é¡µç‰ˆ
+#update:3.4.5.1		æ›´æ–°å„ç§ipã€‚ã€‚ã€‚202ã€‚86ã€‚162ã€‚172 ã€220ã€‚255ã€‚2ã€‚153 å¢åŠ astrill
+#update:3.12.20.1	æ›´æ–°è°·æ­Œã€facebookï¼Œtwitterã€instgramã€telegramã€bandwagonhost
+#update:4.3.17.1	twitterä½œåºŸï¼Œå°‘é‡æ›´æ–°ã€‚å‚è€ƒhttps://github.com/racaljk/hosts/blob/master/hostsæ›´æ–°ä¸€æ³¢ã€‚
 #################################################################
-#ÏÖÔÚhostsÔ½À´Ô½¿ÓµùÁË¡£
+#ç°åœ¨hostsè¶Šæ¥è¶Šå‘çˆ¹äº†ã€‚
 ################################################################### 
 127.0.0.1	localhost
 ::1	localhost
@@ -338,7 +337,7 @@ ay be inserted on individual
 172.217.25.71	28.client-channel.google.com
 172.217.25.71	29.client-channel.google.com
 
-#google¼ÒÆäËû
+#googleå®¶å…¶ä»–
 202.86.162.172	redirector.googlevideo.com
 202.86.162.172	manifest.googlevideo.com
 202.86.162.172	goo.gl
@@ -647,7 +646,7 @@ ay be inserted on individual
 209.85.234.141	ingress-mission-requests.appspot.com
 209.85.234.141	mission-author-dot-betaspike.appspot.com
 
-#ÆäËû
+#å…¶ä»–
 #202.86.162.172	feeds.feedburner.com
 69.174.244.18	host1free.com
 69.174.244.18	www.host1free.com
@@ -774,7 +773,7 @@ ay be inserted on individual
 31.13.76.107	external.xx.fbcdn.net
 31.13.76.107	static.xx.fbcdn.net
 
-#twitter ÄÜÓÃµÄ
+#twitter èƒ½ç”¨çš„
 
 104.244.45.129	twitter.com
 104.244.45.129	www.twitter.com
@@ -802,7 +801,7 @@ ay be inserted on individual
 185.45.5.51	upload.twitter.com
 104.244.43.40	cdn.syndication.twitter.com
 
-#twitter Í¼
+#twitter å›¾
 
 117.18.237.139	abs.twimg.com
 117.18.237.139	pbs.twimg.com
@@ -2362,7 +2361,7 @@ ay be inserted on individual
 54.221.232.4	dl-client1000.dropbox.com
 
 
-#youtube	googlevideo	(ÎïÀíÎ»ÖÃÔÚÏã¸Û)
+#youtube	googlevideo	(ç‰©ç†ä½ç½®åœ¨é¦™æ¸¯)
 
 
 74.125.10.6	r1---sn-i3b7sn76.googlevideo.com
@@ -2618,7 +2617,7 @@ ay be inserted on individual
 173.194.51.248	r19---sn-i3b7sn7z.googlevideo.com
 173.194.51.249	r20---sn-i3b7sn7z.googlevideo.com
 
-#youtube	googlevideo	ÃÀ¹úÂåÉ¼í¶
+#youtube	googlevideo	ç¾å›½æ´›æ‰çŸ¶
 
 173.194.26.70	r1---sn-a5m7ln76.googlevideo.com
 173.194.26.71	r2---sn-a5m7ln76.googlevideo.com
@@ -2941,7 +2940,7 @@ ay be inserted on individual
 173.194.8.120	r19---sn-a5m7lnez.googlevideo.com
 173.194.8.121	r20---sn-a5m7lnez.googlevideo.com
 
-#ÃÀ¹ú¾É½ğÉ½·şÎñÆ÷
+#ç¾å›½æ—§é‡‘å±±æœåŠ¡å™¨
 
 74.125.170.134	r1---sn-nwj7kne6.googlevideo.com
 74.125.170.135	r2---sn-nwj7kne6.googlevideo.com
@@ -3895,7 +3894,7 @@ ay be inserted on individual
 208.117.248.88	r19---sn-hp576m7s.c.youtube.com
 208.117.248.89	r20---sn-hp576m7s.c.youtube.com
 
-#ĞÂÔöyoutube 20150402
+#æ–°å¢youtube 20150402
 
 74.125.209.144	r1---sn-5hn7su76.googlevideo.com
 74.125.209.145	r2---sn-5hn7su76.googlevideo.com
