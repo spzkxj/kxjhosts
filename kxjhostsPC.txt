@@ -31,9 +31,9 @@
 #ovear's DNS 116.255.162.155	60.190.217.130
 #korea 221.139.13.130
 #Japan 220.220.248.1/2
-#Ì¨Íå sparq 61.56.211.185 61.31.233.1(tfn)
-#Ïã¸Û 202.45.84.58 61.10.0.130 
-#¶íÂŞË¹Ä³ 80.80.111.254
+#å°æ¹¾ sparq 61.56.211.185 61.31.233.1(tfn)
+#é¦™æ¸¯ 202.45.84.58 61.10.0.130 
+#ä¿„ç½—æ–¯æŸ 80.80.111.254
 #more dns can find in http://public-dns.tk/
 #
 #Note:You'd better set your PC's DNS as 8.8.8.8
@@ -44,10 +44,10 @@
 #http://www.17ce.com/
 #chrome://net-internals/HSTS#  add force https
 ################################################################
-#½¨ÒéÊ¹ÓÃchromeä¯ÀÀÆ÷,µØÖ·À¸ÊäÈëÒÔÏÂÄÚÈİÒÔÇ¿ÖÆÊ¹ÓÃhttps
+#å»ºè®®ä½¿ç”¨chromeæµè§ˆå™¨,åœ°å€æ è¾“å…¥ä»¥ä¸‹å†…å®¹ä»¥å¼ºåˆ¶ä½¿ç”¨https
 #chrome://net-internals/#hsts
-#×óÉÏ½ÇÏÂÀ­²Ëµ¥Ñ¡ÔñHSTS
-#add domainÀïÖğ¸öÌí¼Ó
+#å·¦ä¸Šè§’ä¸‹æ‹‰èœå•é€‰æ‹©HSTS
+#add domainé‡Œé€ä¸ªæ·»åŠ 
 #google.com
 #google.com.hk
 #googleapis.com
@@ -55,15 +55,15 @@
 #youtube.com
 #facebook.com
 #twitter.com
-#²¢ÇÒÔÚÏÂ±ßµÄÁ½¸öInclude subdomains¶¼´ò¹´
-#µãadd
-#chrome://flags/   ÀïÃæÕÒµ½QUICĞ­ÒéÄÇÁ½Ïî£¬È«²¿ÆôÓÃ¡£
+#å¹¶ä¸”åœ¨ä¸‹è¾¹çš„ä¸¤ä¸ªInclude subdomainséƒ½æ‰“å‹¾
+#ç‚¹add
+#chrome://flags/   é‡Œé¢æ‰¾åˆ°QUICåè®®é‚£ä¸¤é¡¹ï¼Œå…¨éƒ¨å¯ç”¨ã€‚
 ##################################################################
-#update:1.6.8.1 ggpht gstatic googlecode googleusercontent³¢ÊÔ»»³É±±¾©·şÎñÆ÷
-#update:1.6.12.1	ÓĞĞ©µØÖ·±ØĞë»»»Ø¹Ù·½µØÖ·¡£74.125.70/205/193/207/26/206.x
-#update:1.6.14.1	ip¸÷ÖÖÊ§Ğ§¡£¡£¡£±¸ÓÃ74x.125.205.147 74x.125.130.101 204x.9.80.46
+#update:1.6.8.1 ggpht gstatic googlecode googleusercontentå°è¯•æ¢æˆåŒ—äº¬æœåŠ¡å™¨
+#update:1.6.12.1	æœ‰äº›åœ°å€å¿…é¡»æ¢å›å®˜æ–¹åœ°å€ã€‚74.125.70/205/193/207/26/206.x
+#update:1.6.14.1	ipå„ç§å¤±æ•ˆã€‚ã€‚ã€‚å¤‡ç”¨74x.125.205.147 74x.125.130.101 204x.9.80.46
 #update:1.6.15.1	add tor host1free
-#update:1.6.18.1	ÖØ´ó¸üĞÂ£¡£¡£¡google»»³É½üµÄ£¬twitter»»³ÉÄÏÃÀÖŞ¹Ù·½µÄ¡£½á¹ûdropbox±»Ç½
+#update:1.6.18.1	é‡å¤§æ›´æ–°ï¼ï¼ï¼googleæ¢æˆè¿‘çš„ï¼Œtwitteræ¢æˆå—ç¾æ´²å®˜æ–¹çš„ã€‚ç»“æœdropboxè¢«å¢™
 #################################################################
 127.0.0.1	localhost
 ::1	localhost
@@ -186,7 +186,7 @@
 74.125.31.63	id.google.com.hk
 
 
-#ÆäËû
+#å…¶ä»–
 203.208.49.180	goo.gl
 74.125.130.191	accounts.blogger.com
 74.125.31.63	www.blogger.com
@@ -398,7 +398,7 @@
 31.13.82.81	upload.facebook.com
 31.13.99.21	www.connect.facebook.com
 
-#twitter	¿ÉÄÜ²»ÊÇ¹Ù·½·şÎñÆ÷
+#twitter	å¯èƒ½ä¸æ˜¯å®˜æ–¹æœåŠ¡å™¨
 
 199.16.158.40	www.twitter.com
 199.16.158.40	twitter.com
@@ -414,7 +414,7 @@
 199.16.158.43	web.tweetdeck.com
 199.16.158.106	blog.twitter.com
 
-#twitter ±¸ÓÃ
+#twitter å¤‡ç”¨
 
 199.16.158.104	www.twitter.com
 199.16.158.104	twitter.com
@@ -442,7 +442,7 @@
 74.125.31.63	ytimg.l.google.com
 74.125.31.63	insight.youtube.com
 
-#youtube	googlevideo	(ÎïÀíÎ»ÖÃÔÚÏã¸Û)
+#youtube	googlevideo	(ç‰©ç†ä½ç½®åœ¨é¦™æ¸¯)
 
 
 74.125.10.6	r1---sn-i3b7sn76.googlevideo.com
@@ -698,7 +698,7 @@
 173.194.51.248	r19---sn-i3b7sn7z.googlevideo.com
 173.194.51.249	r20---sn-i3b7sn7z.googlevideo.com
 
-#youtube	googlevideo	ÃÀ¹úÂåÉ¼í¶
+#youtube	googlevideo	ç¾å›½æ´›æ‰çŸ¶
 
 173.194.26.70	r1---sn-a5m7ln76.googlevideo.com
 173.194.26.71	r2---sn-a5m7ln76.googlevideo.com
@@ -1021,7 +1021,7 @@
 173.194.8.120	r19---sn-a5m7lnez.googlevideo.com
 173.194.8.121	r20---sn-a5m7lnez.googlevideo.com
 
-#ÃÀ¹ú¾É½ğÉ½·şÎñÆ÷
+#ç¾å›½æ—§é‡‘å±±æœåŠ¡å™¨
 
 74.125.170.134	r1---sn-nwj7kne6.googlevideo.com
 74.125.170.135	r2---sn-nwj7kne6.googlevideo.com
