@@ -286,6 +286,8 @@
 202.86.162.172	contacts.google.com
 202.86.162.172	payments.google.com
 202.86.162.172	ipv4.google.com
+202.86.162.172	ogs.google.com
+202.86.162.172	notifications.google.com
 
 209.85.234.127	stun.l.google.com
 209.85.234.127	alt1.stun.l.google.com
@@ -397,34 +399,34 @@
 64.233.162.82	www.googlesource.com
 
 #gstatic
-172.217.4.163	www.gstatic.com
-172.217.4.163	gstatic.com
+202.86.162.172	www.gstatic.com
+202.86.162.172	gstatic.com
 203.208.43.99	csi.gstatic.com
-#172.217.4.163	csi.gstatic.com
-172.217.4.163	maps.gstatic.com
-172.217.4.163	ssl.gstatic.com
+#202.86.162.172	csi.gstatic.com
+202.86.162.172	maps.gstatic.com
+202.86.162.172	ssl.gstatic.com
 203.208.43.99	fonts.gstatic.com
 #202.86.162.172	fonts.gstatic.com
-172.217.4.163	t0.gstatic.com
-172.217.4.163	t1.gstatic.com
-172.217.4.163	t2.gstatic.com
-172.217.4.163	t3.gstatic.com
-172.217.4.163	g0.gstatic.com
-172.217.4.163	g1.gstatic.com
-172.217.4.163	g2.gstatic.com
-172.217.4.163	g3.gstatic.com
-172.217.4.163	mt0.gstatic.com
-172.217.4.163	mt1.gstatic.com
-172.217.4.163	mt2.gstatic.com
-172.217.4.163	mt3.gstatic.com
-172.217.4.163	mt4.gstatic.com
-172.217.4.163	mt5.gstatic.com
-172.217.4.163	mt6.gstatic.com
-172.217.4.163	mt7.gstatic.com
-172.217.4.163	encrypted-tbn0.gstatic.com
-172.217.4.163	encrypted-tbn1.gstatic.com
-172.217.4.163	encrypted-tbn2.gstatic.com
-172.217.4.163	encrypted-tbn3.gstatic.com
+202.86.162.172	t0.gstatic.com
+202.86.162.172	t1.gstatic.com
+202.86.162.172	t2.gstatic.com
+202.86.162.172	t3.gstatic.com
+202.86.162.172	g0.gstatic.com
+202.86.162.172	g1.gstatic.com
+202.86.162.172	g2.gstatic.com
+202.86.162.172	g3.gstatic.com
+202.86.162.172	mt0.gstatic.com
+202.86.162.172	mt1.gstatic.com
+202.86.162.172	mt2.gstatic.com
+202.86.162.172	mt3.gstatic.com
+202.86.162.172	mt4.gstatic.com
+202.86.162.172	mt5.gstatic.com
+202.86.162.172	mt6.gstatic.com
+202.86.162.172	mt7.gstatic.com
+202.86.162.172	encrypted-tbn0.gstatic.com
+202.86.162.172	encrypted-tbn1.gstatic.com
+202.86.162.172	encrypted-tbn2.gstatic.com
+202.86.162.172	encrypted-tbn3.gstatic.com
 
 #googleapis
 172.217.24.234	googleapis.l.google.com
