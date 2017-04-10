@@ -20,7 +20,7 @@
 #	::1             localhost
 #########################start##############################
 #This hosts is only used for private.
-#Version 4.4.10.1
+#Version 4.4.10.2
 #Data from some other DNS server
 #You'd better use >nslookup (domain) (DNS server), add -vc to force TCP request.
 #Useful DNS server:
@@ -96,6 +96,7 @@
 #update:3.4.5.1		更新各种ip。。。202。86。162。172 、220。255。2。153 增加astrill
 #update:3.12.20.1	更新谷歌、facebook，twitter、instgram、telegram、bandwagonhost
 #update:4.3.17.1	twitter作废，少量更新。参考https://github.com/racaljk/hosts/blob/master/hosts更新一波。
+#update:4.4.10.2  恢复gist,更新twitter。
 #################################################################
 #现在hosts越来越坑爹了。
 ################################################################### 
@@ -777,8 +778,8 @@
 
 #twitter 能用的
 
-104.244.45.129	twitter.com
-104.244.45.129	www.twitter.com
+104.244.45.250	twitter.com
+104.244.45.250	www.twitter.com
 104.244.42.1	twitter.com
 104.244.42.65	twitter.com
 104.244.42.129	twitter.com
